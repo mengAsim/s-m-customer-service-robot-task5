@@ -1,4 +1,4 @@
-# s-m-customer-service-robot-task5
+# s-m-customer-service-robot
 task5-assembly of customer service robot + design modify 
 first i assembly the component of customer service robot 
 After that i made my own design of the customer service robot 
